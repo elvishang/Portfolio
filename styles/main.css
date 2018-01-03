@@ -312,6 +312,19 @@ body {
     background-size: cover;
     background-position: center center;
   }
+
+  #work-projects {
+    background: white url('../images/projects.jpg') no-repeat fixed;
+    background-size: cover;
+    position: relative;
+    height: 100%;
+    color: #fff;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+  }
   
   .work-heading {
     margin-top: 100px;
