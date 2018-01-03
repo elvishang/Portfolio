@@ -129,7 +129,7 @@ body {
   *****************************************************/
   
   #main-section {
-    background: white url("/images/minneapolis1.jpg") no-repeat fixed 100%;
+    background: white url("../images/minneapolis1.jpg") no-repeat fixed 100%;
     position: relative;
     height: 100%;
     min-height: 700px;
@@ -209,7 +209,7 @@ body {
   *****************************************************/
   
   #skills {
-    background: white url("/images/greyback.jpg") no-repeat fixed 100%;
+    background: white url("../images/greyback.jpg") no-repeat fixed 100%;
     position: relative;
     height: 100%;
     min-height: 600px;
@@ -265,7 +265,7 @@ body {
   *****************************************************/
   
   #projects {
-    background: white url("/images/projects.jpg") no-repeat fixed 100%;
+    background: white url("../images/projects.jpg") no-repeat fixed 100%;
     position: relative;
     height: 100%;
     min-height: 700px;
@@ -357,19 +357,19 @@ body {
   }
   
   .contact-info li.phone a {
-    background-image: url('/images/phone.png');
+    background-image: url('../images/phone.png');
   }
   
   .contact-info li.mail a {
-    background-image: url('/images/gmail.png');
+    background-image: url('../images/gmail.png');
   }
   
   .contact-info li.linkedin a {
-    background-image: url('/images/linkedin.png');
+    background-image: url('../images/linkedin.png');
   }
   
   .contact-info li.github a {
-    background-image: url('/images/github.png');
+    background-image: url('../images/github.png');
   }
   
   .copy-right {
